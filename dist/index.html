@@ -8,6 +8,7 @@
   <meta name="description" content="Navegue por TV ao vivo, filmes, séries e futebol em um único lugar com a Mega TV. Plano mensal por R$ 30.">
   <link rel="preload" as="image" href="reacher-4.jpg">
   <link rel="stylesheet" href="catalog.css">
+  <link rel="stylesheet" href="carousel.css">
   <link rel="icon" href="favicon.svg" type="image/svg+xml">
 </head>
 <body>
@@ -44,8 +45,8 @@
     </section>
 
     <section class="catalog-section" id="em-alta" aria-labelledby="trending-title">
-      <div class="section-title"><div><span class="kicker">ATUALIZADO AGORA</span><h2 id="trending-title">Séries em destaque</h2></div><span class="availability">Catálogo sujeito à disponibilidade</span></div>
-      <div class="poster-row">
+      <div class="section-title"><div><span class="kicker">ATUALIZADO AGORA</span><h2 id="trending-title">Séries em destaque</h2></div><div class="carousel-tools"><span class="availability">Catálogo sujeito à disponibilidade</span><div class="carousel-buttons"><button type="button" class="carousel-button" data-carousel-prev aria-label="Ver títulos anteriores">←</button><button type="button" class="carousel-button" data-carousel-next aria-label="Ver próximos títulos">→</button></div></div></div>
+      <div class="poster-row" id="featured-carousel" data-carousel role="region" aria-label="Carrossel de séries em destaque" tabindex="0">
         <article class="poster-card featured"><img src="reacher-4.jpg" alt="Reacher, temporada 4" loading="eager"><div class="poster-info"><span class="service prime-label">PRIME VIDEO</span><h3>Reacher</h3><p>Temporada 4 · 2026</p></div></article>
         <article class="poster-card"><img src="stranger-things-5.jpg" alt="Stranger Things 5" loading="lazy"><div class="poster-info"><span class="service netflix-label">NETFLIX</span><h3>Stranger Things</h3><p>5 temporadas · Ficção</p></div></article>
         <article class="poster-card"><img src="the-bear-5.jpg" alt="O Urso, temporada final" loading="lazy"><div class="poster-info"><span class="service disney-label">DISNEY+</span><h3>O Urso</h3><p>Temporada final · 2026</p></div></article>
@@ -70,5 +71,6 @@
   </main>
 
   <footer><a href="#inicio" class="brand"><span>▶</span>MEGA<b>TV</b></a><p>Seus streamings. Sua TV. Um só lugar.</p><small>Marcas e títulos identificam as plataformas de origem. Disponibilidade do catálogo pode variar.</small><b>© 2026 Mega TV</b></footer>
+  <script src="carousel.js"></script>
 </body>
 </html>
