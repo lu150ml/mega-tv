@@ -1,8 +1,8 @@
 # Mega TV
 
-Landing page estática independente do aplicativo Play TV X. A experiência visual simula um agregador de streaming com TV ao vivo, filmes, séries e futebol por R$ 30 ao mês.
+Landing page estática independente do aplicativo Play TV X. A experiência visual apresenta um agregador de streaming com TV ao vivo, filmes, séries e futebol a partir de R$ 25 ao mês.
 
-Arquivos publicáveis: `dist/`. Edite `dist/index.html` para alterar textos, preços e links. WhatsApp configurado: +55 11 99277-9388. Valor configurado: R$ 30,00 por mês. Os botões de conversão enviam a palavra-chave `teste iptv` para iniciar o teste automático de 4 horas configurável no BotBot/Sigma.
+Arquivos publicáveis: `dist/`. Edite `dist/index.html` para alterar textos, preços e links. Os botões de teste abrem `@MegaTVAtendimentoBot` no Telegram; o WhatsApp +55 11 99277-9388 fica reservado para dúvidas. Valor mensal configurado: R$ 25,00, conforme o checkout do Sigma.
 
 Foto: Garreth Reece Murugan / Unsplash, https://unsplash.com/photos/silhouette-of-mountain-under-blue-sky-during-night-time-pjE2OhB-wBc (imagem ilustrativa, não representa o catálogo).
 
