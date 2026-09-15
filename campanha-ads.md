@@ -5,7 +5,7 @@ https://lu150ml.github.io/mega-tv/campanha.html?utm_source=meta&utm_medium=cpc&u
 
 ## Recomendação inicial
 
-Começar por Meta Ads, com campanha para Instagram e Facebook. Usar linguagem de Black, urgência e teste grátis. Para reduzir risco de reprovação, não usar nomes, logos, pôsteres, cenas ou marcas de plataformas de streaming nos criativos.
+Começar por Meta Ads, com campanha para Instagram e Facebook. Usar linguagem de Black, urgência, teste grátis e a chamada "todos os streams em um só lugar". Não citar nomes dos apps ou serviços. Pode citar nomes de séries em texto, sem usar logos, cenas ou pôsteres.
 
 ## Estrutura
 
@@ -27,7 +27,9 @@ Brasil, 18+, pessoas interessadas em Smart TV, TV Box, futebol, filmes, séries,
 Texto principal:
 Black Mega TV liberada.
 
-Teste por 4 horas antes de pagar. Receba login, senha e link Xtream pelo Telegram e veja se funciona bem no seu aparelho.
+Todos os streams em um só lugar: TV ao vivo, filmes, séries e futebol.
+
+Teste por 4 horas antes de pagar e veja se funciona bem no seu aparelho.
 
 Se gostar, o plano mensal começa em R$ 25.
 
@@ -40,9 +42,9 @@ Teste grátis por 4 horas.
 ## Anúncio 2 - Urgência
 
 Texto principal:
-Entrou na Black: teste grátis da Mega TV por 4 horas.
+Entrou na Black: todos os streams em um só lugar.
 
-Sem pagar antes. Sem cadastro longo. O acesso chega pelo Telegram com login, senha e link Xtream.
+Sem pagar antes. Sem cadastro longo. O acesso de teste chega pelo Telegram.
 
 Oferta por tempo limitado.
 
@@ -59,6 +61,8 @@ Chega de pagar no escuro.
 
 Na Black Mega TV, você testa por 4 horas no seu aparelho antes de escolher o plano.
 
+Reacher, Stranger Things, Bridgerton, The Last of Us, Fallout, O Urso e muito mais em uma experiência só.
+
 Clique e receba seu acesso pelo Telegram.
 
 Título:
@@ -71,12 +75,13 @@ Oferta Black por tempo limitado.
 
 Texto na tela:
 BLACK MEGA TV
+Todos os streams em um só lugar
 Teste grátis por 4 horas
 Receba pelo Telegram
 Plano a partir de R$ 25
 
 Legenda:
-Black liberada para novos testes. Toque em Saiba mais e receba seu acesso pelo Telegram.
+Black liberada para novos testes. Todos os streams em um só lugar. Toque em Saiba mais e receba seu acesso pelo Telegram.
 
 Título:
 Black Mega TV
@@ -89,12 +94,13 @@ Teste grátis agora.
 Usar um card simples com fundo escuro, marca Mega TV e texto:
 
 BLACK MEGA TV
+Todos os streams em um só lugar
 Teste grátis por 4 horas
 Receba pelo Telegram
 Smart TV | TV Box | Celular
 
 Evitar:
-- nomes e logos de plataformas de streaming
+- nomes e logos dos apps ou serviços
 - pôsteres de séries, filmes ou jogos
 - promessa de conteúdo específico
 - prints de marcas sem autorização
@@ -109,6 +115,10 @@ BLACK LIBERADA
 Teste no seu aparelho
 Receba pelo Telegram
 
-TV, filmes, séries e futebol
-em uma só tela
+Todos os streams
+em um só lugar
 Teste grátis por 4 horas
+
+Reacher, Bridgerton,
+Fallout, O Urso
+e muito mais
