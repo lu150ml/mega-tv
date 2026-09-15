@@ -17,7 +17,7 @@ https://lu150ml.github.io/mega-tv/campanha.html?utm_source=meta&utm_medium=cpc&u
 CTA: Saiba mais / Enviar mensagem
 
 Orçamento inicial:
-R$ 30 a R$ 50 por dia durante 3 dias.
+R$ 15 por dia durante 2 dias, totalizando R$ 30.
 
 Público inicial:
 Brasil, 18+, pessoas interessadas em Smart TV, TV Box, futebol, filmes, séries, entretenimento e tecnologia para casa.
@@ -31,7 +31,7 @@ Todos os streams em um só lugar: TV ao vivo, filmes, séries, futebol e clássi
 
 Teste por 4 horas antes de pagar e veja se funciona bem no seu aparelho.
 
-Se gostar, o plano mensal começa em R$ 25.
+Se gostar, o plano mensal começa em R$ 30.
 
 Título:
 Black Mega TV
@@ -78,7 +78,7 @@ BLACK MEGA TV
 Todos os streams em um só lugar
 Teste grátis por 4 horas
 Receba pelo Telegram
-Plano a partir de R$ 25
+Plano a partir de R$ 30
 
 Legenda:
 Black liberada para novos testes. Todos os streams em um só lugar. Toque em Saiba mais e receba seu acesso pelo Telegram.
@@ -125,3 +125,5 @@ e clássicos nacionais
 Reacher, Bridgerton,
 Fallout, O Urso
 e muito mais
+
+
