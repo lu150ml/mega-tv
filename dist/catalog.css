@@ -128,6 +128,13 @@ img { display:block; max-width:100%; }
 .proof-copy ul { list-style:none; padding:0; margin:24px 0 28px; display:grid; gap:10px; }
 .proof-copy li::before { content:'✓'; color:var(--cta); margin-right:10px; font-weight:800; }
 .telegram-proof { max-width:460px; padding:18px; border:1px solid #3b4a5e; border-radius:18px; background:#202b38; box-shadow:0 24px 60px #0007; }
+.proof-card { max-width:460px; padding:28px; border:1px solid #3b4a5e; border-radius:18px; background:linear-gradient(180deg,#202b38,#151c25); box-shadow:0 24px 60px #0007; }
+.proof-card span { display:inline-block; margin-bottom:18px; color:var(--brand-light); font:800 12px Inter,system-ui; letter-spacing:.18em; }
+.proof-card strong { display:block; color:var(--text); font:800 clamp(1.7rem,3vw,2.5rem)/1.05 Oswald,Inter,sans-serif; letter-spacing:-1px; }
+.proof-card p { margin:18px 0 20px; color:var(--muted); line-height:1.65; }
+.proof-card ul { list-style:none; padding:0; margin:0; display:grid; gap:10px; }
+.proof-card li { padding:12px 14px; border:1px solid #ffffff14; border-radius:12px; background:#101720; color:#dfe9f4; }
+.proof-card li::before { content:'✓'; color:var(--cta); margin-right:10px; font-weight:800; }
 .telegram-head { display:grid; grid-template-columns:42px 1fr auto; gap:11px; align-items:center; padding:0 2px 15px; border-bottom:1px solid #ffffff14; }
 .telegram-head>span { display:grid; place-items:center; width:42px; height:42px; border-radius:50%; background:var(--brand); font-size:12px; font-weight:800; }
 .telegram-head strong,.telegram-head small { display:block; }
@@ -294,7 +301,7 @@ footer>b { font-size:11px; }
   .trust-strip { grid-template-columns:1fr; margin:0 20px; transform:translateY(-18px); }
   .trust-strip article { min-height:88px; }
   .product-proof,.faq { padding:54px 20px; }
-  .telegram-proof { width:100%; }
+  .telegram-proof,.proof-card { width:100%; }
   .final-cta { align-items:stretch; flex-direction:column; padding:48px 20px 112px; }
   .final-cta .primary { width:100%; }
   .mobile-cta { position:fixed; z-index:40; left:12px; right:12px; bottom:10px; display:flex; align-items:center; justify-content:space-between; gap:16px; padding:11px 12px 11px 16px; border:1px solid #64db96; border-radius:10px; background:#102318f5; box-shadow:0 12px 36px #000a; }
@@ -309,3 +316,4 @@ footer>b { font-size:11px; }
   html { scroll-behavior:auto; }
   *,*::before,*::after { transition-duration:.01ms!important; animation-duration:.01ms!important; }
 }
+
