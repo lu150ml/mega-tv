@@ -165,12 +165,34 @@ img { display:block; max-width:100%; }
 .live-card.kids { background:#2e3947; }
 
 .football { display:grid; grid-template-columns:1fr 1fr; gap:70px; align-items:center; }
-.football-panel { min-height:360px; display:flex; flex-direction:column; justify-content:center; padding:clamp(28px,5vw,58px); border-left:7px solid var(--cta); border-radius:10px; background:#183425; }
+.football-panel { min-height:360px; display:flex; flex-direction:column; justify-content:center; padding:clamp(28px,5vw,58px); border-left:7px solid var(--cta); border-radius:10px; background:#151b23; overflow:hidden; }
 .football-panel>span { width:max-content; padding:6px 9px; border-radius:4px; background:#b92f37; font-size:11px; font-weight:800; letter-spacing:1.5px; }
-.football-panel>strong { max-width:440px; margin:22px 0 30px; font:700 clamp(2.8rem,6vw,5.5rem)/.98 Oswald; letter-spacing:-2px; }
-.football-panel>div { display:flex; flex-wrap:wrap; gap:8px; }
-.football-panel b { padding:8px 10px; border:1px solid #ffffff33; border-radius:5px; font-size:12px; line-height:1.2; }
+.football-panel>strong { max-width:440px; margin:22px 0 24px; font:700 clamp(2.8rem,6vw,5.5rem)/.98 Oswald; letter-spacing:-2px; }
+.match-carousel { position:relative; width:100%; overflow:hidden; padding:4px 0 18px; }
+.match-carousel::before,.match-carousel::after { content:''; position:absolute; z-index:2; top:0; bottom:0; width:52px; pointer-events:none; }
+.match-carousel::before { left:0; background:linear-gradient(90deg,#151b23,transparent); }
+.match-carousel::after { right:0; background:linear-gradient(270deg,#151b23,transparent); }
+.match-track { display:flex; gap:12px; width:max-content; animation:matchSlide 26s linear infinite; }
+.match-carousel:hover .match-track { animation-play-state:paused; }
+.match-card { width:230px; min-height:132px; display:grid; grid-template-columns:64px 24px 64px; grid-template-rows:auto auto; align-items:center; justify-content:center; gap:10px; padding:17px 14px; border:1px solid #ffffff22; border-radius:10px; background:#1d2732; box-shadow:0 14px 32px #0005; }
+.match-card>b { color:#dce6ee; font:700 18px Oswald; text-align:center; }
+.match-card small { grid-column:1/-1; color:#c3ccd5; font-size:12px; text-align:center; }
+.team-shield { position:relative; display:grid; place-items:center; width:64px; height:72px; border:2px solid #ffffffcc; border-radius:16px 16px 22px 22px; color:#fff; font:800 16px/1 Oswald; letter-spacing:.5px; text-shadow:0 1px 4px #0008; clip-path:polygon(50% 100%,8% 76%,8% 10%,92% 10%,92% 76%); }
+.team-shield::after { content:''; position:absolute; inset:9px; border:1px solid #ffffff55; clip-path:inherit; }
+.pal { background:linear-gradient(135deg,#0b6d3f,#1aa56a); }
+.cor { background:linear-gradient(135deg,#111,#5f6670); }
+.fla { background:linear-gradient(135deg,#c51f2f 0 48%,#141414 49% 100%); }
+.vas { background:linear-gradient(135deg,#111 0 48%,#fff 49% 56%,#111 57% 100%); }
+.sao { background:linear-gradient(135deg,#d92332 0 33%,#fff 34% 62%,#111 63% 100%); color:#111; text-shadow:none; }
+.san { background:linear-gradient(90deg,#111 0 22%,#fff 23% 44%,#111 45% 66%,#fff 67% 100%); color:#111; text-shadow:none; }
+.gre { background:linear-gradient(135deg,#1c97d4 0 35%,#111 36% 64%,#fff 65% 100%); color:#111; text-shadow:none; }
+.inter { background:linear-gradient(135deg,#b8182a,#e34251); }
+.cam { background:linear-gradient(90deg,#111 0 30%,#fff 31% 50%,#111 51% 80%,#fff 81%); color:#111; text-shadow:none; }
+.cru { background:linear-gradient(135deg,#1647a6,#2f72dc); }
+.football-tags { display:flex; flex-wrap:wrap; gap:8px; margin-top:8px; }
+.football-tags b { padding:8px 10px; border:1px solid #ffffff33; border-radius:5px; font-size:12px; line-height:1.2; }
 .football-copy .primary { margin-top:20px; }
+@keyframes matchSlide { from { transform:translateX(0); } to { transform:translateX(-50%); } }
 
 .faq { display:grid; grid-template-columns:.8fr 1.2fr; gap:70px; padding:78px max(5vw,34px); }
 .faq-intro p { color:var(--muted); }
@@ -260,6 +282,7 @@ footer>b { font-size:11px; }
   .live-grid { grid-template-columns:1fr; }
   .live-card { min-height:170px; }
   .football-panel { min-height:310px; }
+  .match-card { width:210px; }
   .plan-box { padding:24px 18px; }
   .trust-strip { grid-template-columns:1fr; margin:0 20px; transform:translateY(-18px); }
   .trust-strip article { min-height:88px; }
