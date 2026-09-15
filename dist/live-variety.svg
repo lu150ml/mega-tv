@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 360" role="img" aria-label="Programa de variedades">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#273246"/>
+      <stop offset="1" stop-color="#141a24"/>
+    </linearGradient>
+    <linearGradient id="spot" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#f2c94c"/>
+      <stop offset="1" stop-color="#e34f7b"/>
+    </linearGradient>
+  </defs>
+  <rect width="640" height="360" fill="url(#bg)"/>
+  <circle cx="118" cy="78" r="48" fill="#f2c94c" opacity=".28"/>
+  <circle cx="520" cy="86" r="58" fill="#e34f7b" opacity=".25"/>
+  <path d="M66 84h508v194H66z" fill="#172132" stroke="#465a78" stroke-width="4"/>
+  <path d="M96 112h448v92H96z" fill="url(#spot)"/>
+  <text x="127" y="171" fill="#111722" font-family="Arial Black, Arial" font-size="38">VARIEDADES</text>
+  <circle cx="216" cy="254" r="34" fill="#dfe7ef"/>
+  <circle cx="320" cy="246" r="40" fill="#f7d376"/>
+  <circle cx="430" cy="254" r="34" fill="#dfe7ef"/>
+  <rect x="150" y="292" width="340" height="42" rx="21" fill="#101722"/>
+</svg>

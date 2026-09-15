@@ -157,7 +157,10 @@ img { display:block; max-width:100%; }
 .device-list { display:flex; flex-wrap:wrap; gap:8px; margin-top:23px; }
 .device-list span { padding:8px 11px; border:1px solid #46505d; border-radius:5px; color:#c9d0d7; font-size:11px; }
 .live-grid { display:grid; grid-template-columns:repeat(3,1fr); gap:12px; }
-.live-card { min-height:270px; display:flex; flex-direction:column; justify-content:end; padding:20px; border-radius:8px; border:1px solid #ffffff17; background:#203047; }
+.live-card { position:relative; min-height:270px; display:flex; flex-direction:column; justify-content:end; padding:20px; border-radius:8px; border:1px solid #ffffff17; background:#203047; overflow:hidden; }
+.live-card::after { content:''; position:absolute; inset:0; background:linear-gradient(180deg,#11182710 0%,#1118274d 44%,#101722ee 100%); pointer-events:none; }
+.live-card>*:not(.live-card-image) { position:relative; z-index:1; }
+.live-card-image { position:absolute; inset:0; width:100%; height:100%; object-fit:cover; opacity:.78; transform:scale(1.02); }
 .live-card span { width:max-content; padding:3px 6px; border-radius:3px; background:#bf343b; font-size:9px; font-weight:800; }
 .live-card strong { font-size:19px; margin-top:8px; }
 .live-card small { color:#c0c7d0; }
