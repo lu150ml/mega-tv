@@ -1,4 +1,5 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://mega-tv-entretenimento.lufaby2001.chatgpt.site/sitemap.xml
+Sitemap: https://lu150ml.github.io/sitemap.xml
+
