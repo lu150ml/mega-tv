@@ -27,7 +27,7 @@ Brasil, 18+, pessoas interessadas em Smart TV, TV Box, futebol, filmes, séries,
 Texto principal:
 Black Mega TV liberada.
 
-Todos os streams em um só lugar: TV ao vivo, filmes, séries e futebol.
+Todos os streams em um só lugar: TV ao vivo, filmes, séries, futebol e clássicos nacionais.
 
 Teste por 4 horas antes de pagar e veja se funciona bem no seu aparelho.
 
@@ -118,6 +118,9 @@ Receba pelo Telegram
 Todos os streams
 em um só lugar
 Teste grátis por 4 horas
+
+Futebol ao vivo
+e clássicos nacionais
 
 Reacher, Bridgerton,
 Fallout, O Urso
