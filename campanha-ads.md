@@ -31,7 +31,7 @@ Todos os streams em um só lugar: TV ao vivo, filmes, séries, futebol e clássi
 
 Teste por 4 horas antes de pagar e veja se funciona bem no seu aparelho.
 
-Se gostar, o plano mensal começa em R$ 30.
+Se gostar, o plano mensal começa em R$ 30. Fechando acima de 3 meses, você ganha desconto: 6 meses por R$ 160 ou 12 meses por R$ 300.
 
 Título:
 Black Mega TV
@@ -78,7 +78,7 @@ BLACK MEGA TV
 Todos os streams em um só lugar
 Teste grátis por 4 horas
 Receba pelo Telegram
-Plano a partir de R$ 30
+Planos acima de 3 meses com desconto
 
 Legenda:
 Black liberada para novos testes. Todos os streams em um só lugar. Toque em Saiba mais e receba seu acesso pelo Telegram.
@@ -125,5 +125,6 @@ e clássicos nacionais
 Reacher, Bridgerton,
 Fallout, O Urso
 e muito mais
+
 
 
