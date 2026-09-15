@@ -169,7 +169,7 @@ img { display:block; max-width:100%; }
 .football-panel>span { width:max-content; padding:6px 9px; border-radius:4px; background:#b92f37; font-size:11px; font-weight:800; letter-spacing:1.5px; }
 .football-panel>strong { max-width:440px; margin:22px 0 30px; font:700 clamp(2.8rem,6vw,5.5rem)/.98 Oswald; letter-spacing:-2px; }
 .football-panel>div { display:flex; flex-wrap:wrap; gap:8px; }
-.football-panel b { padding:8px 10px; border:1px solid #ffffff33; border-radius:5px; font-size:12px; }
+.football-panel b { padding:8px 10px; border:1px solid #ffffff33; border-radius:5px; font-size:12px; line-height:1.2; }
 .football-copy .primary { margin-top:20px; }
 
 .faq { display:grid; grid-template-columns:.8fr 1.2fr; gap:70px; padding:78px max(5vw,34px); }
