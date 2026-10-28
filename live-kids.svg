@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 360" role="img" aria-label="Conteúdo infantil">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#31455b"/>
+      <stop offset="1" stop-color="#18202b"/>
+    </linearGradient>
+  </defs>
+  <rect width="640" height="360" fill="url(#bg)"/>
+  <circle cx="112" cy="84" r="42" fill="#55c7f7" opacity=".65"/>
+  <circle cx="528" cy="82" r="46" fill="#ffcf54" opacity=".7"/>
+  <circle cx="486" cy="248" r="62" fill="#ff6b8b" opacity=".45"/>
+  <rect x="96" y="84" width="448" height="210" rx="26" fill="#101722" stroke="#506983" stroke-width="4"/>
+  <rect x="126" y="116" width="388" height="126" rx="20" fill="#2f7ed8"/>
+  <circle cx="240" cy="178" r="36" fill="#ffd35a"/>
+  <circle cx="390" cy="178" r="36" fill="#87e56f"/>
+  <path d="M248 198c34 28 106 28 140 0" fill="none" stroke="#fff" stroke-width="12" stroke-linecap="round"/>
+  <text x="218" y="276" fill="#fff" font-family="Arial Black, Arial" font-size="30">INFANTIL</text>
+</svg>

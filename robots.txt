@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://lu150ml.github.io/mega-tv/sitemap.xml
+
+

@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 360" role="img" aria-label="Estúdio de jornalismo">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#1b3154"/>
+      <stop offset="1" stop-color="#101722"/>
+    </linearGradient>
+    <linearGradient id="screen" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#d9263a"/>
+      <stop offset="1" stop-color="#2f78d8"/>
+    </linearGradient>
+  </defs>
+  <rect width="640" height="360" fill="url(#bg)"/>
+  <path d="M0 266h640v94H0z" fill="#0d121a"/>
+  <path d="M38 42h564v188H38z" fill="#162238" stroke="#3d5576" stroke-width="4"/>
+  <path d="M60 62h244v146H60z" fill="url(#screen)"/>
+  <path d="M330 62h250v146H330z" fill="#111a28"/>
+  <text x="82" y="125" fill="#fff" font-family="Arial Black, Arial" font-size="54">CNN</text>
+  <text x="82" y="168" fill="#fff" font-family="Arial, sans-serif" font-size="22">AO VIVO</text>
+  <text x="354" y="115" fill="#7fb4ff" font-family="Arial Black, Arial" font-size="34">JORNAL</text>
+  <text x="354" y="158" fill="#fff" font-family="Arial Black, Arial" font-size="42">NACIONAL</text>
+  <rect x="176" y="246" width="288" height="38" rx="19" fill="#26384f"/>
+  <rect x="236" y="214" width="168" height="58" rx="14" fill="#dfe7ef"/>
+  <circle cx="320" cy="190" r="34" fill="#c9d4df"/>
+  <path d="M236 360v-38c0-42 168-42 168 0v38z" fill="#1f2d42"/>
+</svg>
